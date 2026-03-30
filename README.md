@@ -30,6 +30,7 @@ i am student
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SaurabhK519) 
+  [![Airtm](https://img.shields.io/badge/Airtm-saurabh73iux8ek-0081F1?style=for-the-badge&logo=airtm&logoColor=white)](https://app.airtm.com/) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
